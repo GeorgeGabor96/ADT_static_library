@@ -1,0 +1,42 @@
+CreateHashTable C
+PERSOANA
+AddHashTableItem C
+ACIU;MIRCEA;20
+AddHashTableItem C
+LUNCA;EDUARD;18
+AddHashTableItem C
+BADIC;MIHAI;18
+AddHashTableItem C
+MATOI;ADRIAN;19
+AddHashTableItem C
+BADEA;ION;20
+AddHashTableItem C
+NISTOR;CIPRIAN;23
+AddHashTableItem C
+MACOVEI;GHEORGHE;20
+AddHashTableItem C
+POP;IOAN;22
+AddHashTableItem C
+LOHAN;VASILE;18
+AddHashTableItem C
+GABOR;GEORGE;20
+AddHashTableItem S
+GABOR;GEORGE;20
+PrintHashTable C
+DeleteHashTableItem C
+GABOR;GEORGE;20
+DeleteHashTableItem 
+GABOR;GEORGE;20
+DeleteHashTableItem C
+GABOR;GEORGE;20
+PrintHashTable C
+SearchHashTableItem C
+LOHAN;VASILE;18
+SearchHashTableItem C
+GABOR;GEORGE;20
+SearchHashTableItem C
+ReHashTable C hp
+PrintHashTable C
+SearchHashTableItem C
+POP;IOAN;22
+DeleteHashTable C

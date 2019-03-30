@@ -1,0 +1,61 @@
+AddBSTItem G
+2
+CreateBST F
+INTREG
+AddBSTItem F
+3
+AddBSTItem F
+-2
+AddBSTItem F
+6
+AddBSTItem F
+4
+AddBSTItem F
+8
+AddBSTItem F
+1
+AddBSTItem F
+40
+AddBSTItem F
+-3
+AddBSTItem F
+7
+HightBST F
+4
+CreateBST G
+INTREG
+AddBSTItem G
+13
+AddBSTItem G
+2
+AddBSTItem G
+16
+AddBSTItem G
+-4
+DeleteBSTItem G
+41
+DeleteBSTItem F
+4
+PrintBST G
+PrintBST F
+PreorderBST D
+SearchBSTItem F
+3
+PreorderBST G
+DeleteBSTItem F
+1
+InorderBST F
+InorderBST G
+SearchBSTItem G
+32
+PostorderBST G
+PostorderBST F
+MergeBSTs G F
+PrintBST G
+HightBST G
+13
+HightBST G
+-4
+DeleteBST F
+DeleteBST G
+DeleteBST G

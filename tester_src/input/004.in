@@ -1,0 +1,52 @@
+PrintLinkedList E
+CreateLinkedList E
+PERSOANA
+AddLinkedListItem E
+ACIU;MIRCEA;18
+AddLinkedListItem E
+ARGINT;CORNEL;19
+AddLinkedListItem E
+BADEA;ION;20
+AddLinkedListItem E
+MATOI;ADRIAN;19
+AddLinkedListItem E
+BARABOI;ADRIAN;22
+AddLinkedListItem E
+BADIC;MIHAI;18
+AddLinkedListItem E
+NISTOR;CIPRIAN;23
+AddLinkedListItem E
+LUNCA;EDUARD;18
+AddLinkedListItem E
+JURCA;TRAIAN;23
+AddLinkedListItem R
+GABOR;GEORGE;20
+GetLinkedListItem E
+8
+MergeLinkedLists E C
+PrintLinkedList E
+DeleteLinkedListItem E
+BADIC;MIHAI;18
+PrintLinkedList E
+CreateLinkedList C
+PERSOANA
+AddLinkedListItem C
+POP;IOAN;22
+AddLinkedListItem C
+MACOVEI;GHEORGHE;20
+AddLinkedListItem C
+LOHAN;VASILE;18
+PrintLinkedList C
+MergeLinkedLists C E
+SortLinkedList C
+PrintLinkedList
+PutLinkedListItem C
+2
+DUMA;DENISA;19
+PrintLinkedList C
+SearchLinkedListItem E
+BADEA;ION;20
+DeleteLinkedList C
+DeleteLinkedList E
+SearchLinkedListItem E
+BADEA;ION;20

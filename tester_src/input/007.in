@@ -1,0 +1,56 @@
+CreateHashTable G
+INTREG
+PrintHashTable G
+AddHashTableItem G
+21
+AddHashTableItem G
+1
+AddHashTableItem G
+48
+AddHashTableItem G
+-5
+AddHashTableItem G
+100
+AddHashTableItem G
+66
+AddHashTableItem G
+80
+DeleteHashTableItem G
+66
+DeleteHashTableItem G
+121
+PrintHashTable G
+DeleteHashTable
+SearchHashTableItem G
+1
+DeleteHashTable Y
+CreateHashTable Y
+INTREG hi
+SearchHashTableItem Y
+1
+AddHashTableItem Y
+21
+AddHashTableItem Y
+1
+AddHashTableItem Y
+48
+AddHashTableItem Y
+-5
+AddHashTableItem Y
+100
+AddHashTableItem Y
+66
+AddHashTableItem Y
+80
+SearchHashTableItem Y
+-5
+PrintHashTable Y
+PrintHashTable G
+ReHashTable G hi
+DeleteHashTableItem Y
+80
+PrintHashTable G
+ReHashTable Y
+PrintHashTable Y
+DeleteHashTable G
+DeleteHashTable Y

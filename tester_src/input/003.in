@@ -1,0 +1,56 @@
+CreateLinkedList R
+INTREG
+PrintLinkedList R
+PrintLinkedList
+AddLinkedListItem R
+2
+AddLinkedListItem R
+5
+AddLinkedListItem R
+22
+AddLinkedListItem R
+77
+AddLinkedListItem R
+-11
+AddLinkedListItem R
+-234
+AddLinkedListItem R
+789
+AddLinkedListItem R
+-12341
+PrintLinkedList R
+GetLinkedListItem R
+7
+GetLinkedListItem T
+7
+PutLinkedListItem R
+3
+0
+PrintLinkedList R
+CreateLinkedList P
+INTREG
+AddLinkedListItem P
+21
+AddLinkedListItem P
+51
+AddLinkedListItem P
+61
+DeleteLinkedListItem R
+2
+DeleteLinkedListItem R
+22
+DeleteLinkedListItem R
+222
+SortLinkedList R
+SortLinkedList 
+PrintLinkedList R
+SearchLinkedListItem P
+21
+SearchLinkedListItem R
+220
+MergeLinkedLists R P
+PrintLinkedList R
+PrintLinkedList P
+DeleteLinkedList R
+DeleteLinkedList P
+PrintLinkedList R

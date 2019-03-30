@@ -1,0 +1,40 @@
+CreateHeap Y
+PERSOANA
+AddHeapItem Y
+ACIU;MIRCEA;20
+AddHeapItem Y
+LUNCA;EDUARD;18
+AddHeapItem Y
+BADIC;MIHAI;18
+AddHeapItem Y
+MATOI;ADRIAN;19
+AddHeapItem Y
+BADEA;ION;20
+AddHeapItem Y
+NISTOR;CIPRIAN;23
+PrintHeap Y
+GetHeapMin T
+GetHeapMin Y
+CreateHeap U
+PERSOANA
+AddHeapItem U
+MACOVEI;GHEORGHE;20
+AddHeapItem U
+POP;IOAN;22
+AddHeapItem U
+LOHAN;VASILE;18
+AddHeapItem U
+GABOR;GEORGE;20
+PrintHeap U
+DeleteHeapMin U
+DeleteHeapItem Y
+GABOR;GEORGE;20
+DeleteHeapItem Y
+MATOI;ADRIAN;19
+PrintHeap U
+PrintHeap Y
+MergeMinHeaps S T
+MergeMinHeaps Y U
+PrintHeap Y
+DeleteHeap Y
+DeleteHeap U

@@ -1,0 +1,79 @@
+CreateVector A
+INTREG
+PrintVector A
+AddVectorItems A
+5
+1
+5
+11
+7
+4
+PrintVector A
+PutVectorItem A
+2
+8
+PrintVector A
+GetVectorItem A
+33
+GetVectorItem A
+3
+DeleteVectorItem A
+5
+SortVector A
+PrintVector A
+PrintLinkedList E
+CreateLinkedList E
+PERSOANA
+AddLinkedListItem E
+ACIU;MIRCEA;18
+AddLinkedListItem E
+ARGINT;CORNEL;19
+AddLinkedListItem E
+BADEA;ION;20
+AddLinkedListItem E
+MATOI;ADRIAN;19
+AddLinkedListItem E
+BARABOI;ADRIAN;22
+AddLinkedListItem E
+BADIC;MIHAI;18
+AddLinkedListItem E
+NISTOR;CIPRIAN;23
+AddLinkedListItem E
+LUNCA;EDUARD;18
+AddLinkedListItem E
+JURCA;TRAIAN;23
+AddLinkedListItem R
+GABOR;GEORGE;20
+GetLinkedListItem E
+8
+PrintLinkedList E
+SearchLinkedListItem E
+BADEA;ION;20
+DeleteLinkedList C
+CreateBST F
+INTREG
+AddBSTItem F
+3
+AddBSTItem F
+-2
+AddBSTItem F
+6
+AddBSTItem F
+4
+AddBSTItem F
+8
+AddBSTItem F
+1
+AddBSTItem F
+40
+AddBSTItem F
+-3
+AddBSTItem F
+7
+HightBST F
+4
+PrintBST F
+PostorderBST F
+DeleteBST F
+DeleteLinkedList E
+DeleteVector A

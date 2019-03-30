@@ -1,0 +1,44 @@
+PrintVector H
+CreateVector H
+PERSOANA
+AddVectorItems H
+9
+ACIU;MIRCEA;18
+ARGINT;CORNEL;19
+BADEA;ION;20
+MATOI;ADRIAN;19
+BARABOI;ADRIAN;22
+BADIC;MIHAI;18
+NISTOR;CIPRIAN;23
+LUNCA;EDUARD;18
+JURCA;TRAIAN;23
+GetVectorItem H
+8
+MergeVectors H G
+PrintVector H
+DeleteVectorItem H
+5
+PrintVector H
+SortVector H A
+PrintVector H
+CreateVector G
+PERSOANA
+AddVectorItems G
+3
+POP;IOAN;22
+MACOVEI;GHEORGHE;20
+LOHAN;VASILE;18
+PrintVector G
+MergeVectors G H
+SortVector G
+PrintVector
+PutVectorItem G
+2
+DUMA;DENISA;19
+PrintVector G
+SearchVectorItem H
+BADEA;ION;20
+DeleteVector G
+DeleteVector H
+SearchVectorItem H
+BADEA;ION;20

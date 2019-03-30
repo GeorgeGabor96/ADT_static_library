@@ -1,0 +1,49 @@
+CreateHeap T
+INTREG
+AddHeapItem T
+1
+AddHeapItem T
+5
+AddHeapItem T
+20
+AddHeapItem D
+33
+AddHeapItem T
+0
+AddHeapItem T
+16
+AddHeapItem T
+2
+AddHeapItem T
+14
+AddHeapItem T
+13
+PrintHeap T
+PrintHeap
+CreateHeap S
+INTREG
+AddHeapItem S
+10
+AddHeapItem S
+12
+AddHeapItem S
+4
+AddHeapItem S
+9
+AddHeapItem S
+6
+AddHeapItem S
+21
+GetHeapMin T
+GetHeapMin S
+DeleteHeapMin T
+DeleteHeapItem T
+5
+DeleteHeapItem S
+5
+MergeMinHeaps S T
+PrintHeap S
+PrintHeap T
+DeleteHeap T S
+DeleteHeap T
+DeleteHeap S

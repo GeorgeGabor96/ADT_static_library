@@ -1,0 +1,49 @@
+CreateVector A
+INTREG
+PrintVector A
+AddVectorItems A
+5
+1
+5
+11
+7
+4
+PrintVector A
+PutVectorItem A
+2
+8
+PrintVector A
+GetVectorItem A
+33
+CreateVector B
+INTREG
+GetVectorItem A
+3
+DeleteVectorItem A
+5
+DeleteVectorItem V
+2
+AddVectorItems B
+10
+-3
+23
+123
+34
+2
+334
+6
+55
+24
+16
+MergeVectors A B
+SortVector B
+SortVector A
+PrintVector A
+PrintVector B
+SearchVectorItem B
+2
+SearchVectorItem B
+341
+DeleteVector A
+DeleteVector B
+PrintVector A
